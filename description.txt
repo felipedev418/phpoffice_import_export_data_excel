@@ -1,0 +1,7 @@
+This is the php scripts to import excel file and display data and export data to excel.
+
+Please copy these two files to xampp/htdocs and run xampp and go to URL.
+
+Please unzip vendor file in the same directory.
+
+Thanks
